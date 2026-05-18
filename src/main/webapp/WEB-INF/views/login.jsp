@@ -33,7 +33,7 @@
 </form>
 
 <div class="text-center mt-3">
-<a href="register.jsp">新規登録</a>
+<a href="register">新規登録</a>
 </div>
 
 </div>

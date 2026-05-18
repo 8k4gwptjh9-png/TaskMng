@@ -98,7 +98,7 @@ JSPファイルを `WEB-INF` 内に配置することで直接アクセスを遮
 
 ```bash
 # 1. リポジトリのクローン
-git clone [https://github.com/あなたのユーザー名/TaskMng.git](https://github.com/あなたのユーザー名/TaskMng.git)
+git clone [https://github.com/8k4gwptjh9-png/TaskMng.git](https://github.com/8k4gwptjh9-png/TaskMng.git)
 cd TaskMng
 
 # 2. Eclipse等へのインポートとビルド

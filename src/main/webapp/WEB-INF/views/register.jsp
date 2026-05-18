@@ -34,7 +34,7 @@
 </form>
 
 <div class="text-center mt-3">
-<a href="login.jsp">ログインへ戻る</a>
+<a href="login">ログインへ戻る</a>
 </div>
 
 </div>
